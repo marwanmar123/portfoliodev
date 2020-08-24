@@ -59,7 +59,7 @@ alert('error')
         <label>username</label>
         <input type="text" name="user_name" class="" required placeholder="name">
         <label>description</label>
-        <input type="text" name="descr" class="" required placeholder="description">
+        <textarea name="descr" class="" placeholder="description"></textarea>
         <label>link</label>
         <input type="text" name="link" class="" required placeholder="link of projects">
         <label>image</label>

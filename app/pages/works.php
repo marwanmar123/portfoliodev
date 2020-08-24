@@ -2,16 +2,16 @@
 
     include '../init.php';
 
-    function limite_caractere(string $chaine, $max = 70)
-  {
-    $chaine = strip_tags($chaine);
-    if (strlen($chaine) >= $max) {
-      $chaine = substr($chaine, 0, $max);
-      $espace = strrpos($chaine, " ");
-      $chaine = substr($chaine, 0, $espace) . " ...";
-    }
-    echo $chaine;
-  }
+  //   function limite_caractere(string $chaine, $max = 70)
+  // {
+  //   $chaine = strip_tags($chaine);
+  //   if (strlen($chaine) >= $max) {
+  //     $chaine = substr($chaine, 0, $max);
+  //     $espace = strrpos($chaine, " ");
+  //     $chaine = substr($chaine, 0, $espace) . " ...";
+  //   }
+  //   echo $chaine;
+  // }
 
 ?>
 
@@ -38,7 +38,7 @@
                                 class="bg-transparent hover:bg-blue-400 text-blue-400 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded flex justify-center"><?php echo $username ?>
                             </a>
                         </h1>
-                        <p><?php echo limite_caractere($description); ?></p>
+                        <p class=""><?php echo $description ?></p>
                     </div>
                 </div>
             </div>

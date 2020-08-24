@@ -20,7 +20,7 @@
         $subject = 'contact form';
          if(empty($formErrors)){
              if(mail($myemail, $subject, $msg, $headers)){
-                 echo 'msg env';
+                 echo 'msg envoyer';
              }
          }
     }

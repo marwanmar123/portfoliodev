@@ -8,7 +8,7 @@
 <div class="md:ml-24 flex flex-col md:flex-row justify-around p-12">
     <div class="flex flex-col justify-center text-white">
         <h1 class="fontprnc text-5xl font-bold tracking-widest">Hi,</h1>
-        <h1 class="fontprnc text-5xl font-bold tracking-widest">I'm marouan,</h1>
+        <h1 class="fontprnc text-5xl font-bold tracking-widest">I'm Khadiri <br> Marouan,</h1>
         <h1 class="fontprnc text-5xl font-bold tracking-widest">web developer.</h1>
         <p class="font font-bold text-xl">Front end developer/ wordpress/ Freelancer!</p>
         <div class="my-4">
