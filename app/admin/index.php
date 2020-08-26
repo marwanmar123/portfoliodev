@@ -4,9 +4,9 @@
     session_start();
     $nonavbar = '';
     
-    // if(isset($_SESSION['username'])){
-    //     header('location : admin/dashbord.php');
-    // }
+    if(isset($_SESSION['username'])){
+        header('location : admin/dashbord.php');
+    }
     
     include '../init.php';
 

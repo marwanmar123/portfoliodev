@@ -37,7 +37,7 @@
                     data-hover="À propos"></i></a>
             <a id="skills" href="skills.php"><i
                     class="text-gray-200 hover:text-teal-400 p-4 m-2 text-sm md:text-lg fas fa-address-card icon"
-                    data-hover="Compétence"></i></a>
+                    data-hover="Compétences"></i></a>
             <a id="works" href="works.php"><i
                     class="text-gray-200 hover:text-teal-400 p-4 m-2 text-sm md:text-lg fas fa-project-diagram icon"
                     data-hover="Portfolio"></i></a>

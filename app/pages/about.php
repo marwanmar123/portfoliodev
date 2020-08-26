@@ -24,7 +24,7 @@
         <h1 class="fontprnc text-5xl p-6 md:ml-16">Formation</h1>
         <div class="flex flex-col md:pl-16 md:p-6">
             <p class="text-xl pl-2"><span class="text-2xl pr-2 fontprnc">Diplome :</span>développeur web et mobile a
-                l'école YOUCODE</p>
+                l'école YOUCODE (en cour...)</p>
             <p class="text-xl pl-2"><span class="text-2xl pr-2 fontprnc">Diplome :</span>baccalauréat</p>
         </div>
     </div>
